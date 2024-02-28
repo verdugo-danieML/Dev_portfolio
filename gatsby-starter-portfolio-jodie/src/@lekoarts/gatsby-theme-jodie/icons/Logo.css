@@ -1,0 +1,13 @@
+.logo-container {
+    width: 130px; /* Set the desired width */
+    height: 130px; /* Set the desired height */
+    overflow: hidden;
+    border-radius: 50%;
+    border: 2px solid #fff; /* Optional: Add a border */
+  }
+  
+  .logo-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
